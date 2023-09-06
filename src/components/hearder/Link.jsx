@@ -1,3 +1,6 @@
+// icon
+import { AiOutlineLink } from "react-icons/ai";
+
 const Link = ({ title, linkType, url, children }) => {
     const getTargetType = (linkType) => {
         if (linkType == "external") {
@@ -12,8 +15,14 @@ const Link = ({ title, linkType, url, children }) => {
             href={url}
             target={getTargetType(linkType)}
             title={title.length != 0 || children}
+            className="flex items-center font-bold"
         >
-            {title.length != 0 || children}
+            {title.length != 0 || (
+                <>
+                    <AiOutlineLink></AiOutlineLink>
+                    {children}
+                </>
+            )}
         </a>
     );
 };
