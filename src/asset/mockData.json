@@ -1,0 +1,1944 @@
+{
+    "seo_category_infos": [
+        ["美容", "beauty"],
+        ["舞蹈表演", "dance_and_performance"],
+        ["健身", "fitness"],
+        ["美食和飲料", "food_and_drink"],
+        ["家居和園藝", "home_and_garden"],
+        ["音樂", "music"],
+        ["視覺藝術", "visual_arts"]
+    ],
+    "logging_page_id": "profilePage_18057916710",
+    "show_suggested_profiles": false,
+    "graphql": {
+        "user": {
+            "biography": "▪️Front-End Developer\n▪️Founder @volatile.coffee @the_phenomishere \n▪️I share my life as a developer.\n🏎 @kayshihgarage",
+            "bio_links": [
+                {
+                    "title": "",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fkayshih.com%2F&e=AT29wrkBXkvOUH39cd35n6jrdFsIH1pBSjpu8bEy_QPN-ct8mvpQ_GVwiHwH8_0PLkQ4GIQXKSLq_vKyeJR2oMAxB4Kw_fTxQchwOw",
+                    "url": "https://kayshih.com/",
+                    "link_type": "external"
+                }
+            ],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "▪️Front-End Developer\n▪️Founder @volatile.coffee @the_phenomishere \n▪️I share my life as a developer.\n🏎 @kayshihgarage",
+                "entities": [
+                    {
+                        "user": {
+                            "username": "volatile.coffee"
+                        },
+                        "hashtag": null
+                    },
+                    {
+                        "user": {
+                            "username": "kayshihgarage"
+                        },
+                        "hashtag": null
+                    },
+                    {
+                        "user": {
+                            "username": "the_phenomishere"
+                        },
+                        "hashtag": null
+                    }
+                ]
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": false,
+            "country_block": false,
+            "eimu_id": "107644993967469",
+            "external_url": "https://kayshih.com/",
+            "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Fkayshih.com%2F&e=AT1G3oxU1WMeeYloKkXT_fFbDG5G-XdAMt2beU7s77dnvM-ZMbN6_1QSu2-tjA7u5tvyaWm-87xVPcvUu-3WIL07aUNjhIaxo8Lnxw",
+            "edge_followed_by": {
+                "count": 10994
+            },
+            "fbid": "17841418141307239",
+            "followed_by_viewer": true,
+            "edge_follow": {
+                "count": 603
+            },
+            "follows_viewer": false,
+            "full_name": "K  前端工程師",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": true,
+            "has_guides": false,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 12,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": true,
+            "id": "18057916710",
+            "is_business_account": false,
+            "is_professional_account": true,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": false,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": "數位創作者",
+            "is_private": false,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 20,
+                "edges": [
+                    {
+                        "node": {
+                            "username": "tim_learn_software"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "ms_office_drama"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "yi.startup.dev"
+                        }
+                    }
+                ]
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-19/158047876_1325244941193194_831108906505873769_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=-HBmasIoqBsAX8yYm5x&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAmHb9URTn4fev_Gx88mPya2suTxECr4Hp4zzOS881psQ&oe=64FD1A80&_nc_sid=29ddf3",
+            "profile_pic_url_hd": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-19/158047876_1325244941193194_831108906505873769_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=-HBmasIoqBsAX8yYm5x&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDhwBQ9H-_QAxs78SMTCRp5KXRwoda9hdBaovz30JP27Q&oe=64FD1A80&_nc_sid=29ddf3",
+            "requested_by_viewer": false,
+            "should_show_category": true,
+            "should_show_public_contacts": true,
+            "show_account_transparency_details": true,
+            "transparency_label": null,
+            "transparency_product": "STATE_CONTROLLED_MEDIA",
+            "username": "kayshih.dev",
+            "connected_fb_page": null,
+            "pronouns": [],
+            "edge_felix_video_timeline": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 59,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": "QVFBQ3FwNkxBNU9IaDBTWGY2bXVLT2ctQ1ZuYWt3OUlnMktZdVNta244eGx5clZZd2NYdWhyLU92V1NfLVdmSlpka25WakxFUDF3MkswV3haSlVVUE9sRw=="
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "__typename": "GraphSidecar",
+                            "id": "3174303692552189701",
+                            "shortcode": "CwNZGPjyLcF",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAWCoxjZRQE38MI6qF1gaL09e5x4H7XVhT27JCLk7iPZg&oe=64FC5CC3&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": null,
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on August 21, 2023. May be an image of 1 person, computer keyboard and text.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "最近剛好有幸跟幾位資深大神一起共事，想分享這陣子從他們身上學習到幾件小事\n\n▪️不批評前人的程式碼\n我問過這些資深前輩，為什麼對這些我認為很糞的Codebase一點抱怨都沒有，而這些前輩都認為每段程式碼的產生都跟當時的時空背景有關，現在看起來很糞的程式碼也許在當時也是有他們本身的考量，甚至我們現在寫的程式碼再過陣子回頭看也會覺得這些code怎麼這麼垃圾。\n\n當我們評論一段既有的程式碼時，盡量先理解它背後的歷史和背景，進而用一種更加包容和理解的角度去看待它，還有能做的就是慢慢讀懂它，再想辦法優化以及把這些難理解的部分做文件化，避免之後的人也要花大量時間來理解。\n\n▪️不會整天喊把舊有系統打掉重寫\n\n把現有的系統打掉重寫是非常高成本的事情，每個系統要重寫都需要先評估要花費的成本以及所帶來的效益，不是發現舊有系統不好維護就馬上喊著要重寫，這可能導致不必要的資源浪費。更重要的是，一套系統的穩定性和效能往往是需要時間驗證的，應該避免輕易地認為重寫就是解決問題的銀彈，而是應該仔細評估，並尋找是否有其他適合的解決策略。\n\n▪️非常善於做文件紀錄\n這是我覺得最有感的一件事，這些前輩任何文件都寫得非常清楚，不管是API文件或是需求文件，甚至是Bug單也會把發生原因、解決方式通通記錄下來給其他團隊成員知道，避免未來發生一樣問題時又要花很多時間來處理。\n與他們合作的過程中，我幾乎只要看他們給的文件以及comment就能輕鬆合作對接，完全省略一堆沒意義的溝通成本，真的非常舒適。\n\n文件不僅是為了當下的工作，更是對未來的投資。當其他開發者、合作夥伴或是未來的你回頭看這段歷程時，完整而詳細的文件會是最有力的救星。\n\n▪️設立短期且明確的小目標\n與他們共事的過程，他們每週都會為團隊設立一個小目標且這個目標都非常具體，確保讓每個團隊成員都能達成。這過程中會明確感受到整個團隊是一週一週再進步以及不斷地推進每件任務的完成。\n\n還有什麼是你與大神共事時學到的事，歡迎下面留言跟我分享"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 28
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1692626509,
+                            "edge_liked_by": {
+                                "count": 2141
+                            },
+                            "edge_media_preview_like": {
+                                "count": 2141
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDUpbP5rv9xs11CY3sP-IXKbY-IPR2zWVMCmfTEaggPbQ&oe=64FC5CC3&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCr1LQIR6AA41DP2SkY6I5QRedui2v2hpDbTvkdEnHUUA&oe=64FC5CC3&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfB993SHShtpT_QiydrE6-XS8RwXbi7LPM7Zwp_ayDB0Mw&oe=64FC5CC3&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDPvqep7Zqd9DewhaX-JJtVnWKhR4tvyWZfWLyrxmhmSw&oe=64FC5CC3&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAl_BFbHMisKe8Im1_3XnE_xsGvRr3zv4YdU9l14eRhDQ&oe=64FC5CC3&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDUpbP5rv9xs11CY3sP-IXKbY-IPR2zWVMCmfTEaggPbQ&oe=64FC5CC3&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [
+                                {
+                                    "id": "18057916710",
+                                    "is_verified": false,
+                                    "profile_pic_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-19/158047876_1325244941193194_831108906505873769_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=-HBmasIoqBsAX8yYm5x&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAmHb9URTn4fev_Gx88mPya2suTxECr4Hp4zzOS881psQ&oe=64FD1A80&_nc_sid=29ddf3",
+                                    "username": "kayshih.dev"
+                                }
+                            ],
+                            "viewer_can_reshare": true,
+                            "edge_sidecar_to_children": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3174303681361962077",
+                                            "shortcode": "CwNZGFIy2Rd",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368689689_1315370289120222_5969021735643845967_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=xrw-3vqWfDkAX_ZMTrb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAWCoxjZRQE38MI6qF1gaL09e5x4H7XVhT27JCLk7iPZg&oe=64FC5CC3&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqY2rTDsg/An+tM/tWc/3R/wAB/wDr1Qkx+YqNDzTsFzQbUrgHBIH4CtCwuXlDeYc4xj8c1zjNznpWnpj/AHvw/rSY0b+6iqu6ipKMKMpIQjbjnHQgD35PSnrbowzhv++gO2asLeBhy7A+mxP8K2LWNZY1YjcTnkqAepHOBWhmc4bZByQcezDOePz71dtI1jDEA9MjJB6E9cVp30CrA5AAIHpVSSZIoxgZLqOnGMjucdaQyI3x/uj86Krbo/RvzFFUK5klq1LW8cKqDgKeT1OD3AyM1j1Ztv8AWL9ako2EuJZQd6ttXv2PpkHIqc3O1RvUnP0x+PapZwBbLjjJOay4mJHU1PNqVy6Fvzbf0H/fI/xoqDaPQUU7k2P/2Q==",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 21, 2023. May be an image of 1 person, computer keyboard and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3174303681202578533",
+                                            "shortcode": "CwNZGE_S2Rl",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/368566315_846190416899947_660210092847969186_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=pmr5qZEBshMAX9Xfk4p&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfASUA4f2xnq4bRHg7c42vUoENIkictEU6A8AOSwT8lQyQ&oe=64FCF71C&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKliDHO07cf/XqYmQ8Fvfp/9agCpRVstIR8zcEYPHr2qFoioznOKAIqKKKAJ4O/4VMTtHJ9uc/5+tQQqGzn274qTylz/wDX/wDr0AP8wZ6jH1qKVwRgHP40eWpyB17c/wD16JI1UZHt3oAr0UUUASxSBM9efSlabP3cg9zUNFAEpmY+n6/40jSswwelR0UAFFFFAH//2Q==",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 21, 2023. May be an image of text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3174303681370328121",
+                                            "shortcode": "CwNZGFJSww5",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/368557034_284104810914506_9048693862728323035_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Q80mr8s_KLUAX9YyJE6&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBjXQBvGZzK8Jp1SRvq7CbHA97YGnVEfK8i7hXvNlO6zw&oe=64FC6DD1&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKMGpoQT0JGD2qf5yfvt70AUsUYq6d/d2qOXftwzMR6H1oArUUUUATwAnODj8Af508K24jPv0H0qurlelL5rf5AoAs7W9f0FMkQ4yTnHsKr5PqaTJoAKKKKACiiigAooooAKKKKAP//Z",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 21, 2023. May be an image of slow loris and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3174303681194050552",
+                                            "shortcode": "CwNZGE-yUP4",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/368570490_803480748179912_1459228445019026988_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Qp1yYHoLYakAX86Hyra&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDyRUkKQ4ippSb6uJjFyMyW924oP2Z3Yhvri_wKEvt5Zw&oe=64FCA969&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwMUYPpVmDOMgkc9jj0qUljxubt/F+lAFHBoq4fnGGJIPIBP+eajaIAHjoM9aAK9FFFAFiE4Hbr6insQwxnBHvUKMoHPJ+n/1qfujz/8AW/8ArUADbQeScfXNNZlIOCfbk07dGP8A9X/1qa7IRgDn8v6UAQ0UUUAFFFFABRRRQAUUUUAf/9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 21, 2023. May be an image of crossword puzzle and text that says '3.非常書於做文件紀錄 這是我覺得最有感的一件事 這些前輩任何文件都 寫得非常清楚， 不管是API文件或是需求文件 甚至 是Bug單也會把發生原因、 解決方式通通記錄下來給 其他團隊成員知道 ，避免未來發生一樣問題時又要 花很多時間來處理。 與他們合作的過程中， 我幾乎只要看他們給的文件 以及comment就能輕鬆合作對接， 完全省略一堆沒意 義的溝通成本 真的非常舒適。 文件不僅是爲了當下的工作， 更是對未來的投資。 當其他開發者 合作夥伴或是未來的你回頭看這段 歷程時 ，完整而詳細的文件會是最有力的救星。'."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3174303681202569759",
+                                            "shortcode": "CwNZGE_S0If",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/368504223_2335960906590578_8896154103233471438_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=jM52yBzmuZoAX_nGR-K&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfChPDkpwBT1gELeKvKiRKLXUCk6hYaX0CycGnKOBIPdpw&oe=64FD7C48&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKMGp4c84JGPT8vQ1Od+OGb8/wD61AFHFFWzICcmQ5+v/wBaoXCEbt2WPPPXJ/CgCKiiigB6SbePWpPtB9KgooAmM+RggVGZGIx2P0ptFABRRRQAUUUUAFFFFABRRRQB/9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 21, 2023. May be an image of text that says '4.設立短期且明確的小目標 與他們共事的過程， 他們每週都會為團隊設立 一個小目標且這個目標都非常具體， 確保讓每 個團隊成員都能達成。 過程中會明確感受到整個團隊是一週一週再進 步以及不斷地推進每件任務的完成。'."
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphSidecar",
+                            "id": "3144558237878750780",
+                            "shortcode": "Cujtw6ISo48",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDKNJQCGRDX81fi9rCPuCEnLSujDJ_bEwgmcqVUrIaT5g&oe=64FD7C87&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "👑",
+                                                "followed_by_viewer": false,
+                                                "id": "19410587",
+                                                "is_verified": true,
+                                                "profile_pic_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/340683137_750296476533554_2101715815245401957_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=qUW-T5ILqrAAX-mLaVh&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBHn9HMlL3L2Rtxk3KRm1UYpxvMkR5if8a1y7M8xeOzdw&oe=64FCC7FB&_nc_sid=29ddf3",
+                                                "username": "kingjames"
+                                            },
+                                            "x": 0.8316239316,
+                                            "y": 0.3752136752
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "Logitech",
+                                                "followed_by_viewer": false,
+                                                "id": "1684349779",
+                                                "is_verified": true,
+                                                "profile_pic_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/363496469_595061469208442_1202870984594877820_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=pMTvI9DmPH0AX9X_JK9&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfC5CVMCrYf32K9jxmgfdvi1L7I-N535zgaXGYZC90yzKw&oe=64FD436D&_nc_sid=29ddf3",
+                                                "username": "logitech"
+                                            },
+                                            "x": 0.511965812,
+                                            "y": 0.7102564103
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "Twelve South",
+                                                "followed_by_viewer": false,
+                                                "id": "435959339",
+                                                "is_verified": true,
+                                                "profile_pic_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-19/97069980_238735780557108_8322066458230128640_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=0YplohOJGzgAX9_k0RM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCfFGVPDtu5A9KDL_j_JNAK1uLJiCOvZ_M_CfG_1DqH-g&oe=64FD2207&_nc_sid=29ddf3",
+                                                "username": "twelvesouth"
+                                            },
+                                            "x": 0.8658119397,
+                                            "y": 0.8042734782
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "LG Taiwan",
+                                                "followed_by_viewer": false,
+                                                "id": "9182413598",
+                                                "is_verified": true,
+                                                "profile_pic_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-19/369681046_2083557468661287_2010367863762945827_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=wt3LmLejFKsAX8sIGlF&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDe9YkHIN7FzON31Wi9lv_9BffrjnqIbTYtJCNdPLK2vw&oe=64FDE71E&_nc_sid=29ddf3",
+                                                "username": "lgtaiwan"
+                                            },
+                                            "x": 0.4555555295,
+                                            "y": 0.370085457
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "MSI Gaming Taiwan",
+                                                "followed_by_viewer": false,
+                                                "id": "7884948671",
+                                                "is_verified": true,
+                                                "profile_pic_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-19/119234766_1056221941476303_815371747098773947_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=DGfXIa9s61IAX_XbGRO&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfA8M7Umz_5ReVKn33FaaS0FlaBQJIJJUCqobYWQO2feow&oe=64FCB226&_nc_sid=29ddf3",
+                                                "username": "msigaming_taiwan"
+                                            },
+                                            "x": 0.4726495726,
+                                            "y": 0.3658119658
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "DEZCTOP Taiwan",
+                                                "followed_by_viewer": false,
+                                                "id": "50695322383",
+                                                "is_verified": false,
+                                                "profile_pic_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-19/318654066_683024540222308_8852817089825766924_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ykLXNhGRQ4QAX_AzLjQ&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCy80IaMBm6nqZmPppM16bBUGpEqdknSvyk-8RywICQLQ&oe=64FC6238&_nc_sid=29ddf3",
+                                                "username": "dezctop.tw"
+                                            },
+                                            "x": 0.7888888628,
+                                            "y": 0.9059828929
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "Leopold Taiwan",
+                                                "followed_by_viewer": false,
+                                                "id": "57655363526",
+                                                "is_verified": false,
+                                                "profile_pic_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/324716090_724997325578057_7586776610603444475_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1RVFhA1MG9gAX_OpIeo&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCpBMB5DAlF6OX1CWW2BDVt5V2g5hPNXpsuGxn7LLFwSA&oe=64FC2918&_nc_sid=29ddf3",
+                                                "username": "leopold_taiwan"
+                                            },
+                                            "x": 0.2059828929,
+                                            "y": 0.7897435897
+                                        }
+                                    }
+                                ]
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": null,
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on July 11, 2023. May be an image of house plant and text that says '寫程式沒別人強 至少裝備不要輸'.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "我身為專業裝備組大隊長\n直接置頂這篇"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 48
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1689080575,
+                            "edge_liked_by": {
+                                "count": 873
+                            },
+                            "edge_media_preview_like": {
+                                "count": 912
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfA1J1_Dmx-TpyKJvB6IMiwi8KWVPk5ZutpCvOuv6dL-HA&oe=64FD7C87&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBV0awjCWQTT0AZAR0Wae6Azjrl4OXlvUhpSQ1hb1fPFA&oe=64FD7C87&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfD6v4t8Ejrwu_JkndV7ihbeHR69Rg6ZQ2zexns5h1drsQ&oe=64FD7C87&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCiGQDW7zua4tg62ttOzI1007o6o-6t4vV4Ae47xJCv-w&oe=64FD7C87&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAabIp2rKQGKDIToDDlTiVxPS4v9zI_FVkdYnBoNE-T7g&oe=64FD7C87&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfA1J1_Dmx-TpyKJvB6IMiwi8KWVPk5ZutpCvOuv6dL-HA&oe=64FD7C87&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [
+                                {
+                                    "id": "18057916710",
+                                    "is_verified": false,
+                                    "profile_pic_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-19/158047876_1325244941193194_831108906505873769_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=-HBmasIoqBsAX8yYm5x&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAmHb9URTn4fev_Gx88mPya2suTxECr4Hp4zzOS881psQ&oe=64FD1A80&_nc_sid=29ddf3",
+                                    "username": "kayshih.dev"
+                                }
+                            ],
+                            "viewer_can_reshare": true,
+                            "edge_sidecar_to_children": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3144558232174561675",
+                                            "shortcode": "Cujtw00S4mL",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/359606639_952835582637164_2190249180481863115_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=91STvQf9x-AAX-2kgjd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDKNJQCGRDX81fi9rCPuCEnLSujDJ_bEwgmcqVUrIaT5g&oe=64FD7C87&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqvmsTVuqfj/StusbVx9z8f6UAZJAAHP8AP/P5UrfdX0plPYfIpoAixRSUUAdrWbqcYZU4ycnvjtVNLyWOfbIxIDYI4xz+H41envQjFF++PUcfofxB/A0xGULXccAHtnke3+f/ANVQPG/3QGwPathLl5WwNqIAMlu/05qyUVuRzQBzXkP/AHT+VFdJ5QooGZOoRHzsrzu9PX/GrBtwygjgkAkccHGDjvz6ZxVeXrU9t91vr/SmlcTKyKdxUEDjJJGc/h7dq0EnjhXBP44xWeP9YfpTJ+31qbWGan2+L1orn8mincD/2Q==",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on July 11, 2023. May be an image of house plant and text that says '寫程式沒別人強 至少裝備不要輸'."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3144558232006674728",
+                                            "shortcode": "Cujtw0qScko",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/358805891_209916562032139_6756750628892144230_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=madLzSpNv10AX9mCOzy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCKooM6dfjMOaR_S9ZKpHZQ5msMA8SKeOR1vUv_a4N55g&oe=64FCA5E3&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": [
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "👑",
+                                                                "followed_by_viewer": false,
+                                                                "id": "19410587",
+                                                                "is_verified": true,
+                                                                "profile_pic_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/340683137_750296476533554_2101715815245401957_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=qUW-T5ILqrAAX-mLaVh&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBHn9HMlL3L2Rtxk3KRm1UYpxvMkR5if8a1y7M8xeOzdw&oe=64FCC7FB&_nc_sid=29ddf3",
+                                                                "username": "kingjames"
+                                                            },
+                                                            "x": 0.8316239316,
+                                                            "y": 0.3752136752
+                                                        }
+                                                    },
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "Logitech",
+                                                                "followed_by_viewer": false,
+                                                                "id": "1684349779",
+                                                                "is_verified": true,
+                                                                "profile_pic_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/363496469_595061469208442_1202870984594877820_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=pMTvI9DmPH0AX9X_JK9&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfC5CVMCrYf32K9jxmgfdvi1L7I-N535zgaXGYZC90yzKw&oe=64FD436D&_nc_sid=29ddf3",
+                                                                "username": "logitech"
+                                                            },
+                                                            "x": 0.511965812,
+                                                            "y": 0.7102564103
+                                                        }
+                                                    },
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "MSI Gaming Taiwan",
+                                                                "followed_by_viewer": false,
+                                                                "id": "7884948671",
+                                                                "is_verified": true,
+                                                                "profile_pic_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-19/119234766_1056221941476303_815371747098773947_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=DGfXIa9s61IAX_XbGRO&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfA8M7Umz_5ReVKn33FaaS0FlaBQJIJJUCqobYWQO2feow&oe=64FCB226&_nc_sid=29ddf3",
+                                                                "username": "msigaming_taiwan"
+                                                            },
+                                                            "x": 0.4726495726,
+                                                            "y": 0.3658119658
+                                                        }
+                                                    },
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "DEZCTOP Taiwan",
+                                                                "followed_by_viewer": false,
+                                                                "id": "50695322383",
+                                                                "is_verified": false,
+                                                                "profile_pic_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-19/318654066_683024540222308_8852817089825766924_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ykLXNhGRQ4QAX_AzLjQ&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCy80IaMBm6nqZmPppM16bBUGpEqdknSvyk-8RywICQLQ&oe=64FC6238&_nc_sid=29ddf3",
+                                                                "username": "dezctop.tw"
+                                                            },
+                                                            "x": 0.7888888628,
+                                                            "y": 0.9059828929
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqybeNJGwc9OOfz7VO1n8xCk8Y69fyFQ2x2vjkH+vatrkKWGCx5PPT9ev0NWkSzNS1O7BYjAzn+lQTloSAGJz9RW2qHHmY5wQR75PfP4Vi3rFmUnI5PH5e/bpQ0gT6DfOf+9/48aKaB9fyP+FFTYY/7ZKeGYNzn5hnt7g03zxj7oDZ6ruGPw6fpUBKmmYoAvQXjK2NzD043D3yCQf61K9v5pEpdMDkgEqcd+G/oTWfgH6+uTTWUL0Ofbn/AAp3Cxu+Zb/3/wBf/rUVz9FZ282O5PJE0Z2kHn/P0qVUXGTk47dD+BGR+YqW+P73HsP51VkUA8CtAJvLZkyAeuOR/Uf4VVKHrW9YD9wv4/zNU9QABGOM0WJuZVFbHlr6D8hRRYdz/9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo shared by K  前端工程師 on July 11, 2023 tagging @kingjames, @logitech, @msigaming_taiwan, and @dezctop.tw. May be a video game screenshot of 1 person, screen and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3144558232191259135",
+                                            "shortcode": "Cujtw01SlH_",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/358781310_937465724026747_1870762574847011864_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=N9pp_--cASkAX_nqSpv&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDq7kjh2RcXEkFyiWPdtyMhY5GeZNzRAf8luADpOHycFA&oe=64FDB125&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": [
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "Twelve South",
+                                                                "followed_by_viewer": false,
+                                                                "id": "435959339",
+                                                                "is_verified": true,
+                                                                "profile_pic_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-19/97069980_238735780557108_8322066458230128640_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=0YplohOJGzgAX9_k0RM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCfFGVPDtu5A9KDL_j_JNAK1uLJiCOvZ_M_CfG_1DqH-g&oe=64FD2207&_nc_sid=29ddf3",
+                                                                "username": "twelvesouth"
+                                                            },
+                                                            "x": 0.8658119397,
+                                                            "y": 0.8042734782
+                                                        }
+                                                    },
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "LG Taiwan",
+                                                                "followed_by_viewer": false,
+                                                                "id": "9182413598",
+                                                                "is_verified": true,
+                                                                "profile_pic_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-19/369681046_2083557468661287_2010367863762945827_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=wt3LmLejFKsAX8sIGlF&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDe9YkHIN7FzON31Wi9lv_9BffrjnqIbTYtJCNdPLK2vw&oe=64FDE71E&_nc_sid=29ddf3",
+                                                                "username": "lgtaiwan"
+                                                            },
+                                                            "x": 0.4555555295,
+                                                            "y": 0.370085457
+                                                        }
+                                                    },
+                                                    {
+                                                        "node": {
+                                                            "user": {
+                                                                "full_name": "Leopold Taiwan",
+                                                                "followed_by_viewer": false,
+                                                                "id": "57655363526",
+                                                                "is_verified": false,
+                                                                "profile_pic_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/324716090_724997325578057_7586776610603444475_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1RVFhA1MG9gAX_OpIeo&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCpBMB5DAlF6OX1CWW2BDVt5V2g5hPNXpsuGxn7LLFwSA&oe=64FC2918&_nc_sid=29ddf3",
+                                                                "username": "leopold_taiwan"
+                                                            },
+                                                            "x": 0.2059828929,
+                                                            "y": 0.7897435897
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqmuJXHRiB7VkSTyE/fY/8CNaU7dP896yZMBuPWmIJDgjkn6k1sW0n7pR6CsCT5Tn+lbEKlQi9dwH4d/0pMpF3zKKd9n96KkqxFJYu38Q49qpHS3znOfwrXW4bnem3nj5lbP5U03S84HPbPAz6ZrUzMC4sWjwWP3jj6VoQjMik9FBwfwxS3WJCBLn2xkCq0McWSTkAdMH+eDSGjRLiisT7Y6fLjOOM46470UrD5izJblOdwx75H9aqyPvwhx7AZH41YlJOP901BYjJYnk8c0WFcezHABHTgYY/4UzzecHfn61YYc/hVX/lr/wGkO5GUz/+s0VZooGf/9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo shared by K  前端工程師 on July 11, 2023 tagging @twelvesouth, @lgtaiwan, and @leopold_taiwan. May be an image of desk, computer keyboard, rack and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3144558231998208540",
+                                            "shortcode": "Cujtw0pyJoc",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/358797390_1447938682692261_5537964246534088589_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=FKNoyvCo1ZAAX_BqPX4&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAOdDoTB20dwnltoiL52K471TjZzwdy6SNnVGwqQF43ag&oe=64FE0EC7&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqv1jauOE+p/pW1WVqkbSKu0FsE9BntTAwjT2B2KakFrMf4G/Kla3l4G0gDtkUAVKKsfZZPT9RRSAtLM8FxhmJCtg5Jxg1envvmKJ17MMEev6j8jVO/j3y7k5DYz9as+UroD3wN2Om7GM/XHenZ9BMEuWkbLsI0UDOOp/Q4z/+qro2yDK4I9axkGHKhiuB1A5P+farwukiAHzH68k0l5gXPLFFUv7ST0NFUMryKDz61LAwjUjI5Peo6bUp2Y2rkbSkOcAHPoBSuTIOg/ADNIOtBouOxT2+/wClFWaKVwsf/9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on July 11, 2023. May be an image of flower pot, house plant, plant and text that says 'Belkin BOOST CHARGE™ PRO MagSafe'."
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3181535331992957849",
+                            "shortcode": "CwnFYcny3OZ",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDTXfEwjp4CFmHhaHhVbIutEh1xl_aSfDYVcptJqDniVA&oe=64FD18F2&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACIqtkU3FZVxfyxuyjbhWI6f/XqA38xGcj8hRYdzaIpprDN7Mf4v0H+FI9zN03k59MUWC5t0VhfaJP75opWHcuTQiSeQHoCD1A5P1/Wl+zR7cgd/74/L68Y+tJqELNM21S2QvQE9qp/ZZcY2Hn1wP581RJaW3jzyOP8AfHT/AB5H601ljz8oORxywOeMcY9+fpUC2Mp7fqKligkt5kJxnOfw7/pQBCQufu0VrNbRsSdx556UVN/IvlXco3NxI6o248jlRkYI9fXPNQs6JIrx5OME8Y+tNk/rVcdaozOkW7QdifyqhdXYZwwXpnHP8+KZB/jU8Kht2QDx3q0rq4PQp/apfWirBRfQflRSsM//2Q==",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on August 31, 2023. May be an image of 1 person, computer keyboard and text.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "這篇文比較偏給面試官看\n最近常收到轉職者面試時被問到『你為什麼要轉職？』這個問題該怎麼回答？\n以我自己來說，我是面試官就算知道是轉職者\n也不會想問這題\n\n▪️為什麼要轉職這件事重要在哪？\n\n我不知道為什麼現在面試都很愛聽一些不重要的假掰話，這種問題不意外的你只會獲得以下答案\n\n『因為覺得寫程式很有趣，喜歡這種解決問題的過程』\n\n『我是個熱愛學習的人，覺得軟體開發是個能不斷學習的領域』\n\n『在日常生活中，我經常會思考如何透過程式改善某些問題，這使我更加確定軟體開發是我真正熱愛的。』\n\n『我對於創建有價值的工具和服務充滿熱情，認為軟體開發可以實現這些想法。』\n\n這種垃圾回答我靠ChatGPT一天能寫四公斤 Skr~\n所以這些回答對於找到合適的人才有什麼幫助？\n\n▪️可以把問題換成\n\n『轉職過程中你碰到最困難的問題是什麼？ 那如何解決它？』\n\n『轉職過程中做過最難的專案是什麼？』\n\n軟體開發就是圍繞在解決問題，了解面試者面對困難問題時如何解決它以及是否願意主動接觸困難的問題才是最重要。\n\n再來是這個問題的回答幾乎唬爛不了，只要稍微追著問就能馬上知道面試者到底是不是亂講一通。\n\n面試者：『轉職過程中，我面對最困難的問題是學習如何做CSS垂直置中』\n面試官：『下一位~謝謝』\n\n在轉職過程中，不可能完全沒有碰到困難的問題\n要不你就真的是練武奇才，遇到什麼都能馬上秒解\n要不你就真的只是在照著轉職課程上的東西學學，完全沒額外花時間去面對一些更貼近真實世界的實際問題。\n\n所以最後我想問大家你為什麼要轉職？"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 17
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1693488588,
+                            "edge_liked_by": {
+                                "count": 429
+                            },
+                            "edge_media_preview_like": {
+                                "count": 429
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfB-VgAlCGFuqiQLPUW-bSAC2WrbMLnJ3frZtz_5vA8AUg&oe=64FD18F2&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDK8-ozuZlkSknT0JEqDvaUjhwfAbWxSY9_SC0PYAj2qw&oe=64FD18F2&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAGfpJY2bmSDQ1Pe1a3TACv0kdRbJMuL5l-IcRlKprvJw&oe=64FD18F2&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAjiF0txYPKblNP2S97XtZq9evAG4klw3Kp7mWRchU2xQ&oe=64FD18F2&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfClgnw1IUKTJPGZS6zlydPRBnoW_9FtdwaF0wpeTNehbQ&oe=64FD18F2&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/372571957_305717348804011_4307825829567333357_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UcDjp7T6sakAX_9lVUu&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfB-VgAlCGFuqiQLPUW-bSAC2WrbMLnJ3frZtz_5vA8AUg&oe=64FD18F2&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphSidecar",
+                            "id": "3179379018227672463",
+                            "shortcode": "CwfbF87ymWP",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfD23ye7gkyHOB_EQjJxh--fUNIqxjzpSXSLO4uffBDBNg&oe=64FC3DBC&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": null,
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of computer keyboard, desk and text.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "軟體開發對於處理以及驗證數據一直是很重要的一件事，對於開發者來說永遠要對外部來的資料保持的戒心，不管你是前端還是後端應該都遇過類似的問題\n出現某個Bug查到最後發現是後端API資料的格式有問題或是前端送來的資料有誤，所以我們才需要對資料進行驗證。\n\n在解析，不驗證（ Parse, don’t validate ）的這篇文章內，我學到了另外一種更安全的做法來處理外部資料，不僅能驗證資料同時還能轉換資料且獲得完整的型別，這個方式就是解析(Parse)。\n\n既然說到型別，那是不是表示對於JavaScript來說就意義不大？\n其實不會，就算是JavaScript也能用我下面所提到的Zod Library\n但如果你對型別有一點觀念，那就會發現Parse是值得做的一件事\n\n接下來我先解釋下解析(Parse) & 驗證(Validate)的差別\n\n▪️驗證\n驗證是確認數據是否符合特定的規則或格式的過程。\n例如，使用JavaScript的Joi庫，你可以快速檢查某些數據是否符合預設的模式。但透過驗證所得到的結果很簡單，就只有true & false，這使得開發者在驗證成功後仍然不確定數據的具體型別。\n\n▪️解析\n與驗證相比，解析有著更深層的意義。它不僅包括驗證，還增加了型別的安全性，甚至可以將數據轉換成更適合的格式。\n這意味著當你進行解析時，你不僅確定數據是合法的，還可以確定它的型別和結構。\n\n以Zod來說，它不僅能夠驗證數據，還可以在runtime階段解析數據並返回相對應的型別。這意味著開發者可以更精確地知道數據的結構，而不是依賴於不確定的any or unKnow。\n\n看個簡單的官方文件範例\n\nconst personSchema = z.object({\n name: z.string(),\n});\n\npersonSchema.parse({\n name: \"bob dylan\",\n extraKey: 61,\n});\n// => { name: \"bob dylan\" }\n// 透過zod解析，還會把未定義在schema內的欄位剔出掉，轉換成schema內有的格式\n\n▪️Parse優質在哪？\n\n1. 數據轉換: 解析可以將數據轉換成更適合的格式。例如，將數字字符串轉換為數字或將日期字符串轉換為日期對象。\n \n2. 型別安全: 通過解析，你可以確保數據的型別安全。\nZod就是很優質的範例，它允許開發者從schema中推斷出數據的具體型別。\n\nParse = 驗證數據 + 型別安全 + 數據轉換\n\n透過解析資料，我們不只能知道資料驗證的成功與否，\n同時也能得到一筆轉換過且具備型別安全的新資料。\n\n希望各位開發者能有更安全的數據處理方式\n覺得有用的話在下面留言Parse!! 讓我知道"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 6
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1693231535,
+                            "edge_liked_by": {
+                                "count": 588
+                            },
+                            "edge_media_preview_like": {
+                                "count": 588
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBYAeAvaXl6nO2AJXezvloA8YgIMs0Axe1fAjU3pTnc9A&oe=64FC3DBC&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCZ_QG3TRmQyI0f2886hq5Lj1_MUVVLXbpP0fgyY4NtVw&oe=64FC3DBC&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDi9p3JPBJ_x0VbEvRIk57nczuPoKo4tBKEJP1eO67TqQ&oe=64FC3DBC&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDDJdp0zIRwfxsQtApvW0mt5XfvAZxnF_BApiQAweqA9A&oe=64FC3DBC&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCch1492EfegKSIrNjjiXneJpBCo_k3KexbFRcnSCHikw&oe=64FC3DBC&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBYAeAvaXl6nO2AJXezvloA8YgIMs0Axe1fAjU3pTnc9A&oe=64FC3DBC&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true,
+                            "edge_sidecar_to_children": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011885753474",
+                                            "shortcode": "CwfbF3ByGSC",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/371323523_146833771804937_2345532332108241638_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSqQuYF7Q1wAX_wmnLY&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfD23ye7gkyHOB_EQjJxh--fUNIqxjzpSXSLO4uffBDBNg&oe=64FC3DBC&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIquO6pyxA+tV2u4R1cUX33B/vfzBrBPU/jRYDYN9AP4v0P+FRtfRep/I1iMKcDhT05Pf8ApRYDW+3xe/5f/XorFzRQB1V6oZBnpuXvj171liKItnBwM5+cenP6/wCHWp4rn7THIJhkLyAoweMnr+FVJIYg2AvUkcyYPHrwcUxD3tohng/9/FPp/jVO6jWMgL7/AMQb+X+TVhLVHO3bt47OG/TAqQ6cvqaBmTRWibDBxk0UWAl2HJEfy5zkAdc8frUB8yM/Mm7r95M/zrRhH8xWw/FCBnLRTlWL7VXA5wMdcDpVoage4HIyM8f1q3eDO7PNc4aBGqbxjzhfzorPoouM/9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of computer keyboard, desk and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011885807507",
+                                            "shortcode": "CwfbF3ByTeT",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/370879843_3666094146951846_6927283916582523947_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=mkP1r1F_CIoAX8PH74A&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDDmOe3zp0xkl6dhzPtGZ7qLL71V6p9cMl27kn9apzGpQ&oe=64FC4F07&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKcqM3QZpfKf0NADKKeInPY0mxgM44oAbRRRQBZg+6frUu0ce1VY5SnHXNP+0H0/U0AT4568fQUx/uHt+XrUDSlvYelNLsRgnigBtFFFABRRRQAUUUUAFFFFAH/2Q==",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011877417039",
+                                            "shortcode": "CwfbF3BSTBP",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/370834323_1130102594487520_3913549971832548574_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=zntqG-FYXJwAX949TlK&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBA1RCUMNjNB22XAmY1Rrq8KLDS3oS0bmfp0HwrmQdCsQ&oe=64FD1832&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKcqFulO8o+3+fwoAjoqTyWoaIqMnH6/wCFAEdFFFAE0QJBAwfrn+lPMhHBK/maijcKDnPNSeaoHc/UD/GgBfNPqv5momYkH5gfYf8A6qeZsHgcUwykjBFAEdFFFABRRRQAUUUUAFFFFAH/2Q==",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of crossword puzzle and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011894273422",
+                                            "shortcode": "CwfbF3CSmWO",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/371742989_2154004801468210_1786654235507634452_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2CMjfxhND3wAX_a9FOe&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCG3mS5JmSw4env91bhrTbun6H4wLneCkSal4RvNeg6Bw&oe=64FC79BC&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKlVCVyAG/PNKVP9wfr/jQBDRUu0/3P5/40jKcfdx78/wCNAEdFFFAE8bKFAJGQe9SFlPdelNiUMvIyMn1pVjXoR0+v+NACeag9/f8AyaDMpHfp/nvTjEOmP5/nSFEA5GOuM5H9aAKtFFFABRRRQAZooooAKKKKAP/Z",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of crossword puzzle and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379012112255590",
+                                            "shortcode": "CwfbF3PSIpm",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/371310635_352567910434706_162663248297380926_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Zfubb0xdi7AAX-Dxc7U&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAmqxpMNstOnYMhm-03x6TP-kuZHrvpADXBEz2_KGiQCg&oe=64FD8898&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKKKACiiigAooooAniQEZOOtS+Wo5xn8P8A61U80uT6mgC4VUdQPyqN1VRxj8f89ar7j6n86QkmgAooooAKKKKACiiigAooooA//9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be a meme of slow loris and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011894364336",
+                                            "shortcode": "CwfbF3CS8iw",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/369896118_1377916063125393_4032671829529245266_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=TaohG86s70cAX9LQvGX&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfARJhtQG-BwTAhYscegxJtg1uNV9EHgT1legx_EdttqPA&oe=64FD3AF8&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKMGpF24+YMT7H/AOtQBHRUvyejfmP8KiwaACiiigCZOnXFITTA5HApfMNAC0UnmGkLk0ANooooAKKKKACiiigAooooA//Z",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be a meme of text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011894356627",
+                                            "shortcode": "CwfbF3CS6qT",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/370555095_318290074001828_5790360036582226323_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5aTS1h_YSygAX8etlA-&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAYlAPr5ovkDg1iBCC5WcPBxMeLhK14qc4hGk_9nDccvQ&oe=64FC431E&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKeqbvX8ATSFD2yfwoAbRTtjeh/I0m0+h/KgBKKKKAJ49235R+Of6Uv7wDPH5DP8qjR9oxkj8Af50MwY8k/kP8AGgCUCU88fp/hSHzMdiB7D/CojjHBOf0/nTMmgAooooAKKKKACiiigAooooA//9k=",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of crossword puzzle and text."
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "__typename": "GraphImage",
+                                            "id": "3179379011894310112",
+                                            "shortcode": "CwfbF3CSvTg",
+                                            "dimensions": {
+                                                "height": 1350,
+                                                "width": 1080
+                                            },
+                                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/371045331_6471339722953542_3502519882574796987_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=3B1RhZ_yvNQAX8VyAWf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfB2Do6M9Siw0rMBV5y3rABbKaDWSOMwVrlcKVTzuq6w4g&oe=64FC2A97&_nc_sid=29ddf3",
+                                            "edge_media_to_tagged_user": {
+                                                "edges": []
+                                            },
+                                            "fact_check_overall_rating": null,
+                                            "fact_check_information": null,
+                                            "gating_info": null,
+                                            "sharing_friction_info": {
+                                                "should_have_sharing_friction": false,
+                                                "bloks_app_url": null
+                                            },
+                                            "media_overlay_info": null,
+                                            "media_preview": "ACIqwKKUKT0BNG0+h/KgBKKXafQ/lRtPofyoASiiigCxE+1ehPXp0p24gdGJ9x/nioFkKjAxTvOb2oAcHkB4X8MGlMj9x+h/xpnnN7f5/GkaVm6/pQBHRRRQAUUUUAFFFFABRRRQB//Z",
+                                            "owner": {
+                                                "id": "18057916710",
+                                                "username": "kayshih.dev"
+                                            },
+                                            "is_video": false,
+                                            "has_upcoming_event": false,
+                                            "accessibility_caption": "Photo by K  前端工程師 on August 28, 2023. May be an image of poster, crossword puzzle and text."
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphVideo",
+                            "id": "3163406041756590824",
+                            "shortcode": "CvmrQjXOeLo",
+                            "dimensions": {
+                                "height": 1334,
+                                "width": 750
+                            },
+                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDkGGySoeDW00ohOuknaFdHrWpnVuyLeqhHmykuObvjMw&oe=64F9A479&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ABgq0SKjNFxMsC7mzgnHHvVM6jD79fSpsVcnaio1uIpThGBPpzRSsO4/UFVowGOBu9QOx9awzFGAfmz/AMCX/P41qGbEzNztbbxwcY69eBn25qUSpIwULknp0rQgyrdFSRSrDnI+8Dj64HFFSuwG4YA+Y/8A6qKLBcgFyT1wPoKkMoQg7jkY5AHFZy1cYfKf89xSHcs6jgMChyJMNRWYPv0VSEz/2Q==",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": true,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": null,
+                            "dash_info": {
+                                "is_dash_eligible": true,
+                                "video_dash_manifest": "\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT73.13995361328125S\"><Period id=\"0\" duration=\"PT73.13995361328125S\"><AdaptationSet id=\"0\" contentType=\"video\" frameRate=\"15360/512\" subsegmentAlignment=\"true\" par=\"9:16\" FBUnifiedUploadResolutionMos=\"360:69.8\"><Representation id=\"277094468270838v\" bandwidth=\"81628\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_vp9eve_1_v1\" FBPlaybackResolutionMos=\"0:100,360:99.3,480:99,720:98.4,1080:93.4\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:99.8,480:99.8,720:99.6,1080:97.6\" width=\"720\" height=\"1278\" FBQualityClass=\"hd\" FBQualityLabel=\"720p\"><BaseURL>https://instagram.ftpe8-1.fna.fbcdn.net/v/t66.30100-16/121003060_1452303488882448_2454545341037193641_n.mp4?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=9c5c06&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5ZXZlXzFfdjEifQ%3D%3D&amp;_nc_ohc=S-3p8S6LEyoAX8n5XvF&amp;_nc_ht=instagram.ftpe8-1.fna&amp;oh=00_AfBzcxPHesRA70-ErJ-au-drE28gZEYf7nIz9ynSVM0Qgw&amp;oe=64FC7D4B</BaseURL><SegmentBase indexRange=\"792-1003\" timescale=\"15360\" FBFirstSegmentRange=\"1004-57924\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"57925-108545\" FBPrefetchSegmentRange=\"1004-57924\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-791\"/></SegmentBase></Representation><Representation id=\"248796908082336vd\" bandwidth=\"122916\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_vp9eve_1080p_v1\" FBPlaybackResolutionMos=\"0:100,360:99.5,480:99.3,720:99,1080:98.7\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.3,480:97.2,720:97,1080:96.6\" width=\"1080\" height=\"1918\" FBDefaultQuality=\"1\" FBQualityClass=\"hd\" FBQualityLabel=\"1080p\"><BaseURL>https://instagram.ftpe8-1.fna.fbcdn.net/v/t66.30100-16/335918748_1008175013836953_1793816896226471011_n.mp4?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=9c5c06&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5ZXZlXzEwODBwX3YxIn0%3D&amp;_nc_ohc=Ps-TYwL_JT0AX_8Di6f&amp;_nc_ht=instagram.ftpe8-1.fna&amp;oh=00_AfBh_J76nXu1PAH_RQhtt3Mxhj_VQBMfd7W8rZZath97dQ&amp;oe=64FD2776</BaseURL><SegmentBase indexRange=\"792-1003\" timescale=\"15360\" FBFirstSegmentRange=\"1004-94501\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"94502-168957\" FBPrefetchSegmentRange=\"1004-94501\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-791\"/></SegmentBase></Representation></AdaptationSet><AdaptationSet id=\"1\" contentType=\"audio\" subsegmentAlignment=\"true\"><Representation id=\"580662117370288ad\" bandwidth=\"81796\" codecs=\"mp4a.40.5\" mimeType=\"audio/mp4\" audioSamplingRate=\"44100\" FBEncodingTag=\"dash_ln_audio_v1\" FBDefaultQuality=\"1\"><AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/><BaseURL>https://instagram.ftpe8-2.fna.fbcdn.net/v/t66.30100-16/316259585_821420982971920_1818396317687367827_n.mp4?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=9c5c06&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfbG5fYXVkaW9fdjEifQ%3D%3D&amp;_nc_ohc=_UHhzXuifyMAX9kqtC-&amp;_nc_ht=instagram.ftpe8-2.fna&amp;oh=00_AfA3UQYWLmixTwMPpP5GeAs8IIOEYWGpbh1Dd51CKjYa0g&amp;oe=64FC99D4</BaseURL><SegmentBase indexRange=\"817-1028\" timescale=\"44100\" FBFirstSegmentRange=\"1029-51045\" FBFirstSegmentDuration=\"5040\" FBSecondSegmentRange=\"51046-98907\" FBPrefetchSegmentRange=\"1029-51045\" FBPrefetchSegmentDuration=\"5040\"><Initialization range=\"0-816\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>\n",
+                                "number_of_qualities": 2
+                            },
+                            "has_audio": true,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWUyY2MyMjAwN2M3NDhjNDkwN2M0NTk4ZTEyMGNhODgzMTYzNDA2MDQxNzU2NTkwODI0Iiwic2VydmVyX3Rva2VuIjoiMTY5Mzk4Mzg3NTczMnwzMTYzNDA2MDQxNzU2NTkwODI0fDU4NzU1MTc4MnxkNzVjNjgyZWE3NTQ2NDRmNThhZTExYzdkMDUwM2I5ZDFlNzY5MmU3ZmQwOTM2MjI2ZTZkZjFkYWVjZmVkYmEzIn0sInNpZ25hdHVyZSI6IiJ9",
+                            "video_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t66.30100-16/119593525_975798090407346_8057427679480850880_n.mp4?_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=6ySa0RuhmdAAX9J3k0s&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfD0jtj-VEC2SRBRPdliwHvHoOUoAEYFoRikBLkXAHfMxw&oe=64F99CA5&_nc_sid=29ddf3",
+                            "video_view_count": 3161,
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "這部Reels主要是分享我如何使用Smart Actions來快速開啟我自己的Side Project。\n\nSmart Actions確實提供一個很直覺化的介面幫助我們把這些瑣碎的事情做成自動化，也歡迎大家在下面跟我分享你們透過Smart Actions做出什麼炫炮的自動化流程\n\n#Logitechtw #SmartActions智能啟動 #MX高階商務系列 #MXKeysS無線智能鍵盤 #MXMaster3S無線智能滑鼠"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 8
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1691327448,
+                            "edge_liked_by": {
+                                "count": 218
+                            },
+                            "edge_media_preview_like": {
+                                "count": 218
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=c0.292.750.750a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfALGQqMTvFgoVhlTh8H_JPW82iIsyc5KjLgbc9I9KP99g&oe=64F9A479&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=c0.292.750.750a_dst-jpg_e15_s150x150&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDFZd6r_OMzbZKkoLFhAXjHPJ2d56eizF8Z-6dsZjcmng&oe=64FD98F9&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=c0.292.750.750a_dst-jpg_e15_s240x240&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCZjIIsre-xMkwBoApTe2g2ON74YbRMZbpNpws6c0QYzg&oe=64FD98F9&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=c0.292.750.750a_dst-jpg_e15_s320x320&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAqCqGxR8nCphUitsQ0Dw170guZhGmtK8Frv4RwLOklqw&oe=64FD98F9&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=c0.292.750.750a_dst-jpg_e15_s480x480&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBJUfweR9OZYk1vJgbJk5jxjOJDXj3FA7yo8CNUjJ4P1w&oe=64FD98F9&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/365098633_1365713357348227_3049129869255316753_n.jpg?stp=c0.292.750.750a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=JbUmNRtQArMAX_XPOdb&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAwooMuuETw7IDrV1D-IEPjnTEcd0yEYJnVlzp66HzcMg&oe=64FD98F9&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "felix_profile_grid_crop": null,
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true,
+                            "product_type": "clips",
+                            "clips_music_attribution_info": {
+                                "artist_name": "G Sounds",
+                                "song_name": "Pure Imagination Lofi",
+                                "uses_original_audio": false,
+                                "should_mute_audio": false,
+                                "should_mute_audio_reason": "目前無法播放這首歌曲。",
+                                "audio_id": "658218205257392"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3151120973399994860",
+                            "shortcode": "Cu7B9R3yjHs",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBEBpo1iWTIuldwpU-Y8RLt-KLWvPjIkzofAaguJTmfbQ&oe=64FD7F8B&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACIqqzKWHAqoBg4I6dvzqzI+F9efXiqaklv8+hpiGPkdau2ZJyR04qlK3bJrRsTiIk92P6AUmUi1vHqPzFFZpZf7v6//AFqKLBc3G0+L0J/Go/7Oj9MfjV0zJ60x51AyvzHOOP61RJmXVikaFh1Hvn+lNKoq7IyOv94e3tUtwPOO1zj0AI/l/jVFrcKQA3fB9vqegoGWVhGBnrj1H+FFH2OP++P8/jRSGRi4Mn+sKfqf51A8jhsxYUemRg/WrEqLjoPyqi4FTsPcuzM7r27eh/xqIFx2J/4Fx+gFUqUMfU0XHYv72/u/+PUVU3t6n86KVwsf/9k=",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on July 20, 2023. May be an image of computer keyboard and text.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "最近剛好在做side project順便玩下next 13以及react 18的一些新特性，在調用api這部分我則選擇用react.use這個新hook來處理，在學習或導入某樣新寫法之前，我都會很好奇它出現的緣由，順便把我找到的一些資訊分享給大家\n\n為什麼需要 'use'？\n\n如果在沒有使用SWR或React-query的情況下，調用API的體驗實在是很差。我們必須透過useEffect來調用API，而新的hook 'use'的出現，一方面是為了解決這個問題。另一方面，由於Server side component（SSC）的出現，React團隊希望對SSC和Client side component（CSC）的請求策略做區別。在SSC中，我們可以直接使用async/await方式處理promise ，但在CSC中，我們無法使用這種方式。\n\nReact團隊的解釋是，要在CSC中實現async/await可能會遇到技術上的困難，即使可以做到，也可能會導致效能問題。此外，他們希望能夠清楚區分SSC和CSC，以防開發者在不同情境中使用錯誤的組件。\n\n👉在條件式中可使用\nReact.use突破了過去hook的限制，它能在條件式裡面進行調用。但和其他hook一樣，它必須在React組件內使用，不能在普通的function中使用。\n\n👉如何做Error handle & Loading?\n\nReact.use要做Error handle以及Loading必須要搭配 ErrorBoundary & Suspense \n- React.use內的promise結果尚未返回會顯示Suspense的loading元件\n\n- 當promise回傳錯誤則需要透過ErrorBoundary來進行錯誤處理\n所以如果要用React.use一定需要把元件包在這兩者之下，否則loading以及error都會沒辦法處理。\n\n下一篇再來介紹我自己的使用方式以及跟SWR還有react-query間的其他差異"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 5
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1689862914,
+                            "edge_liked_by": {
+                                "count": 436
+                            },
+                            "edge_media_preview_like": {
+                                "count": 436
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfC6wflcgYH6XNgUfqJ6cRYF093XKmOXmM1uRBesw3J8TA&oe=64FD7F8B&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCEQHhe5BMvFagdg28OPxziidqaDi_RHn72Zf7nzeRPog&oe=64FD7F8B&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBXpf-ykL_PycI9ybywD0fXujUNe7pHm0EelPtvoGliSg&oe=64FD7F8B&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDIBWUovdSmZQRX5TV54wbrfFAjzafR1UVvEGKSDbYFMw&oe=64FD7F8B&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfB9ArN39LDdk8LJ4y2YDrOjkx7e9XvrQy6ZoFabjOrSyA&oe=64FD7F8B&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/361946622_668295942005284_7542927214457429675_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GomSByFVPwwAX-zPEtf&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfC6wflcgYH6XNgUfqJ6cRYF093XKmOXmM1uRBesw3J8TA&oe=64FD7F8B&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3139523105522378024",
+                            "shortcode": "CuR06FsyuUo",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCXe-7cpQCINW95f_TPWmPxspon1wNu37om_Qx_4GEB1A&oe=64FCEBC9&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACIqrar/AK1f93+pqrFfSxjruHo3P69atat/rF/3T/M1lDlaYGyl+jj5gVP5j/H9KlcYrDDdB7/4V0Mq8E0mgIwOKKzPPk9/++TRU2KLuqLumjHsTycdD7/pVEQIQOev+2o9vStS5hS/bdE64j4bg9+mOn50i6VEilnJbAPU4H6f41oQZggjyO53D+JenHt9aJZXEhUMcFjwW7En+n61bjeGNMY+YMc4FZroG+fPUkkenNIaLokYcbmGO2TRVDA9aKd0BZkxDOQv3GPQ9CD6irLTMVCkkgDHNVnHP4UqfdpMEISKsWdr9oPzcIO/c+w/r6VVNdHp6hrXDAHGcZ57mkhspnSY/U0VGRzRV2Iuf//Z",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on July 04, 2023. May be an image of computer keyboard and text.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "Streaming是我常常在看些React文章常看到的詞，之前一直沒有去深入了解到底是什麼，最近因為在研究React Server Component又一直出現streaming，所以才打算寫篇簡單的文章釐清自己對它的了解。\n\nStreaming 指的是一種資料傳輸方式，將大量的資料分解成小塊（chunk）進行傳輸，並逐漸載入，待所有資料接收完畢後重新整理。相對於傳統的 HTTP 傳輸方式，它一次性傳輸所有資料，這種方式可能導致頁面加載時間過長。\n\nStreaming 最常見的應用之一就是串流媒體，例如我們在觀看 Netflix 影片時，我們不可能等待整部影片都載入到客戶端後才開始觀看。因此，透過 Streaming 的方式，我們可以利用強大的網路技術持續傳輸影片內容，並開始觀看已經傳輸完成的部分。\n\n回到Server Side Render的部分，我們都知道 SSR 是在伺服器端預先生成好整個 HTML 內容並傳輸到客戶端。然而，若 HTML 內容過大，可能導致 TTI（Time to Interactive）過長。為了解決這個問題，React 在 16 版之後提供了 renderToNodeStream API，透過 Streaming 的方式來傳輸 HTML 內容，將 HTML 內容分割，讓客戶端能逐步渲染畫面。\n\n在 16 版之前，我們會使用 renderToString 一次性傳輸所有內容。\nReact 18開始renderToNodeStream也被淘汰了，取而代之的是renderToPipeableStream這個API，renderToPipeableStream完全支持Suspense以及data fetching。\n\n在React 18之前，做 SSR 的策略就是要一次載入所有內容或完全不載入，React 18之後搭配Suspense，我們可以根據不同區塊所需的載入時間來個別進行SSR，這樣的好處我們能讓其他不需要等loading的區塊先呈現出來增加使用者體驗。\n\n其實這個是我日常學習筆記，如果你覺得這些日常小東西對你有幫助的話記得留言跟我說，我會把日常的筆記整理成簡單點的文章發上來\n\n#前端 #前端開發 #軟體開發 #軟體工程師 #devlife #前端工程師 #javascript  #網頁開發 #typescript #生產力"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 17
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1688480340,
+                            "edge_liked_by": {
+                                "count": 424
+                            },
+                            "edge_media_preview_like": {
+                                "count": 424
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCTB0im9JmQWls1ptI2lvzolDwaztRlCbrzHd2OQLtADg&oe=64FCEBC9&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBWIzfRXQv214w52Tro6QM_LmVHS6_drKS_LquG4fPhhQ&oe=64FCEBC9&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAerMdB1LkoZz2h8yXlcLRYlcvLRHo5hdAkqEhtq8UFsw&oe=64FCEBC9&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDQzS4Yr8TukdvtqwElraDg9QvdnZR3t3Ko4dF8endcTw&oe=64FCEBC9&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAUCWfzMNT98D_eGFWA6Y4yegRFRA-fxqLD0opVruXMFQ&oe=64FCEBC9&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/358167015_289658720295083_3501245854426076510_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nuOXnb1MWEIAX-2Kk4g&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCTB0im9JmQWls1ptI2lvzolDwaztRlCbrzHd2OQLtADg&oe=64FCEBC9&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3128646239282348656",
+                            "shortcode": "CtrLy2oSUJw",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBNR8pPPbzURMvL9HTjK5o2g7Doawex3gP99lG4VqjHlg&oe=64FC690F&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACIq0TWJqv30/wB0/wA626w9V++n+6f50AZ2MHHrj+Yoc5Y/Wm55H1FK5w5+ooAl+X3/AEoqTf7r+v8AjRTsFzoIrhJs7DnHXgj+dQXdmZypABwMfex1P0NZ+nORIVH8Xr7ZNalssgDeb1LHAznA7Y9vbtQBQGmt/dH/AH3/APW/yKovZSo3zYyT1z6fh+VdLisu7ifLMMEEcY4/PP8AT9KH5CM4283+x+lFTrPCAAScgf3B/wDFUUrjLTbmOQxGM446U6Kfcudxb36UnY/Q1QgJC8etC1KasavnH1NDAumGP3s4J9vpVAE0XpOxfx/nTvYVrh/ZTn+NP1/worO3H1P50VNx2P/Z",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on June 19, 2023. May be an image of computer keyboard.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "轉過來使用monorepo也大概半年多，這篇文章主要來分享下我為什麼當初會想嘗試使用monorepo做管理，以及這段時間跑下來的一些想法，那這篇文章主要不會介紹太多技術上的使用，就單純心得分享\n\n在前一間公司時，管理前端專案的方式就是把每個可以獨立運作且能重複使用到的模組都拆分成個別的獨立Repo並透過npm發布的方式來裝到每個前端應用上。這樣的管理剛開始確實覺得沒什麼問題，也蠻乾淨的。但隨著這種獨立模組越來越多，就逐漸開始出現一些問題。\n\n1. 更新很麻煩，每次更新就需要全部有用到專案同時升級版本號\n2. 需要透過yarn link才有辦法同時兩個專案進行開發\n\n也因為這樣，才讓我決定嘗試使用Monorepo\n\n轉由monorepo時，我挑的工具是使用Nx，但我並沒有像一些大公司是走到極致把公司所有專案包含前後端都放在一起，我單純只有把所有前端專案統一管理，而monorepo也確實解決了我先前所提到的問題：\n\n1. 依賴項目不會有版本衝突，因為在這種統一的環境下，只會存在一個版本。\n2. 不再需要透過yarn link來進行本地開發。\n3. 測試更方便，因為所有的專案都在同一個Repo中，只需更改套件即可一次測試所有使用該套件的專案。\n \n目前我的整個專案其實都還不算大，而且共同開發的人數也不多，還沒有遇到一些使用monorepo的團隊常提出的缺點，像是專案太肥大，要拉取都得透過--depth來拉，或是整個專案效能變得很差，IDE一打開就卡到不行，還有就是不同團隊間對於程式碼沒有個別的權限管理等等。\n\n另一個使用Monorepo可能會遇到的困難是處理CI/CD，Monorepo會比較麻煩的點就是在於CI/CD，雖然像Nx這類的工具都有幫你做到differential build(簡單就是每次跑CI/CD只跑有更新到的專案，不然每個專案都跑的話會跑到死)，但就算是這樣我還是有遇到一些坑，有可能跑的時候會沒判斷到某些模組有更新之類的而CI/CD直接跳過等等，這方面的東西我也還在研究中。\n\n如果你的團隊目前不大但是維護的專案也不少而且其中又能拆出很多共用的模組，那我蠻推薦你可以嘗試使用看看這種方式做管理。\n\n#前端 #前端開發 #軟體開發 #軟體工程師 #devlife #前端工程師 #javascript  #網頁開發 #typescript #生產力"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 5
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1687183717,
+                            "edge_liked_by": {
+                                "count": 306
+                            },
+                            "edge_media_preview_like": {
+                                "count": 306
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBGnSjbu2adoTvaRRp5GbwJztheHhtX5UkqPk0Y2pnGYQ&oe=64FC690F&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCGgLT6VbjxtvezG4ds1NosWwm5XwkdA9Vankt6Wk5s1w&oe=64FC690F&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDjRRJGs7IFHTE_Y-4CiyEKfHG9fpov5tDOkgcE-AoIfA&oe=64FC690F&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBC7RDCnSctNOO97D5nKSc2zSZZc9wAqVUP-w4Js5kNJg&oe=64FC690F&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAjFmQ925leNPi1jU83lBgGcpbUFRj5uaIuMk9jhX9PHg&oe=64FC690F&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.2885-15/354892513_286415397178450_7069143937179451523_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BeFck6bAPWgAX_aMAi7&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBGnSjbu2adoTvaRRp5GbwJztheHhtX5UkqPk0Y2pnGYQ&oe=64FC690F&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3113444419878548077",
+                            "shortcode": "Cs1LTRCyHJt",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBppcp63jJvHXs-pR66FdAuFu3JMotTc_29jzefITV6mw&oe=64FCD81B&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACIqz7k/uENVAu4HjPNWrjm3WqiMQD1/CmIjAIGD/nrSyFs8ZAppYsakkbHqPwFAyvuPrRRRSA6CSy3bIC3Tvj+maX+yF/vn8gKuSkC4X6GrZkQdSB+IqhGQNIjH8Tfp/hUEliiyhMlgQSfUEEf41veYnqKyp5AZ1ZTx82c8dl6+lFgD+y4vf8zRU3nRdyCfqaKVh3RRuJMspUbuaktbPzN5lJHcLk4984/TFNn/ANYtTFiAcHFJvYpR3JI7m0jAUgjb0GWP88VVu7iCRAsIIIOSTnp+JNVnPeoGJINSndjasisZTRUdFUQf/9k=",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on May 29, 2023.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "最近在工作上蠻多同事都因為Burnout而選擇離職或是暫時休息一段時間，我想簡單分享我是如何透過正確的休息來降低Burnout的狀況。\n\n👉先來談談Burnout的一些徵兆\n- 在工作上很容易看什麼都不爽\n- 效率低落，生產力大幅下降\n- 每天都有非常勞累的感覺\n- 變得完全沒動力參與工作以外的休閒愛好，整天只想在家耍廢，更嚴重的情況下可能會有睡眠品質下降、頭痛、胃痛等生理症狀。\n\n如何透過正確的休息方式來舒緩Burnout的狀態\n\n根據『一流的人如何保持顛峰』這本書裡面有提到，我們可以把休息分為短暫休息與長期休息，短暫休息可以穿插在我們平常的工作中而長期休息可以在一段高壓力工作期後安排\n\n▪️短期休息\n- 散步\n散步可以幫助創意發想而且也能避免久坐的問題，同時散步可以讓我們暫時放空抽離工作。\n我自己過去還在辦公室上班的時候，每天下午一定要去外面走很大一圈順便買杯咖啡回來再繼續工作，每次這樣出去走一圈聊聊天回來都特別有精神。\n\n- 冥想\n冥想的好處不需要多說了，透過冥想可以幫助自己抽離壓力做到高品質的休息，關於冥想的教學，可以在網路上查到很多，可是試著每天工作一段時間後就抽個5分鐘做做冥想。\n\n- 社交恢復法\n開心說笑以及關心彼此的環境能對身體恢復及未來表現有助益，有沒有發現在公司大家一起喝個咖啡閒聊完再回去工作會比較有生產力，因為遠端工作由於缺乏這種交談環境，所以遠端工作者會更需要自己去想辦法做一點社交聯繫。\n以我自己來說我很喜歡去約些同樣是遠端工作者的朋友一起去喝杯咖啡跟工作，在各自忙到一個段落就可以互相閒聊一下。但這種社交閒聊會比較限定於輕鬆悠閒的談話，如果連閒聊都是在聊工作上的東西那反而沒有太大的意義。\n\n▪️長期休息\n在承受長時間的壓力轟炸一定得要去安排較長的休息時間來讓自己恢復，一但長時間陷入高壓狀態都沒休假放鬆很快就Burnout了。週末是一個關鍵的休息時間，我幾乎在週末是不太處理工作上的事情也不太愛用ig發文，因為我想好好休息去做自己喜歡的事情。\n一但你把週末時間也去處理工作日的事務，那反而會導致平日的工作表現更差。\n\n大約一週至十天的假期能有效改善倦怠的狀況，但還是要去正視工作上造成你倦怠的原因，不解決這些問題的話，馬上又會出現相同的倦怠狀況。\n\n如果發現自己工作量過高還得在週末花非常多時間加班的話，那真的得好好跟公司談談工作量的問題，身心靈的健康比什麼都來得重要，當工作狂也是要有限度的。\n\n以上內容都是來自於『『一流的人如何保持顛峰』這本書的心得，蠻推薦大家看看這本書，避免自己陷入過勞的狀態。\n\n你最近有過勞的跡象嗎？\n有的話在下面靠北下讓我知道\n\n#前端 #前端開發 #軟體開發 #軟體工程師 #網頁開發 #devlife #前端工程師 #javascript #typescript #生產力"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 8
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1685371519,
+                            "edge_liked_by": {
+                                "count": 579
+                            },
+                            "edge_media_preview_like": {
+                                "count": 597
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDX87XoKAc52UDp26ch8kvdnC5MQ9ytfFe91-dfjWoCkg&oe=64FCD81B&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfD9d_J9aBQdcn-G0namI3sF3kcK5CuMCpCzsRRw-HcNDg&oe=64FCD81B&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCaep5SmYpZCmnhCGCQVaCZrLO8KJX1061LqgWFATTieA&oe=64FCD81B&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCCbOvVfu_uTEliD0-pcQD9dei6iv4joiF6-pfOkGmABw&oe=64FCD81B&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfABSvqg0Wehi8tlVPPjdqjkCaV4E9JvBVmD8X2XY6eW5Q&oe=64FCD81B&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/350091719_192733039973952_7961010106811364132_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=PThIsXBDWBEAX_zZ9ul&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDX87XoKAc52UDp26ch8kvdnC5MQ9ytfFe91-dfjWoCkg&oe=64FCD81B&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3110523134102108160",
+                            "shortcode": "CsqzE9pyngA",
+                            "dimensions": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDsgzpOE9M-uWnFJ0LPpgCtEkA8F79w--PRdltsq5dpdA&oe=64FDD84D&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACoqZcXDRPtAGMA/55qsb5vQfr/jUmocSj3X/GqGaBFw3beg/X/GkS7LNggAVWbpUanBoC5rbgaTIqDayD5wV+oP/wCqm719R+dIsRZBM48x9/GBkAcn0+hqw0KIMlQcc9f7vUfjxWc8Z3KoOCATk8AD/wCtVj7HuXPnp06E8/zpiNGKyV1BZeSPX0PP5jiqwhQDcUAJ4Az+P8h/k1XLeSoUPuHT5Sar7gvykZx27jPNArGjLdyRABPl/i5bOQeg/CoxJI/zYHPPT1rNfb1UHP6VdFw3t+VO4WKMqng7snv/AIe9RBGNTN1WpjSGVthjIJwep/Kp41MuWAGffOajH3j/ALrfyNWLT7p/D+VAEYDMMgD86XY3oPzp8P3fxP8AOpaVh3P/2Q==",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on May 25, 2023.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "每個工程師都希望自己的codebase能乾乾淨淨，但隨著專案開始變肥大並且因為使用者需求與業務邏輯改變，可能先前所寫的功能或靜態資源(如圖片、CSV、JSON等等存放在專案內部的靜態資源)已經都沒在使用了，但工程師卻不願意去或是不敢去清理這些用不到的垃圾，而這些遺留下來的垃圾只會造成整個Codebase越來越肥大。\n\n其實我自己也有遇到一樣的狀況，我maintain了一個專案將近三年多，因為這種需求的改變導致整個codebase變得很雜亂，哪些東西能刪哪些不能刪我都不知道，因為擔心在某些地方有被引用到，所以就乾脆堆在那邊。\n\n後來再開啟新專案的時候，我很認真的去思考該怎麼在未來避免這種情況再度發生，那我找到的方式是透過正確的資料夾規劃就能大幅度降低這種廚餘code的產生。\n\nFolder Structure\n\n/assets/images/banner/ \n--- page1-banner.jpg \n--- page2-banner.jpg \n \n/page/page1/ \n--- helper.js \n--- index.js \n\n/page/page2/ \n--- helper.js \n--- index.js\n\n這種資源的資料夾規劃方式很常見對吧？ \n\n將相同種類的圖片放在一起，然而這種規劃方式存在一個問題。當有一天我們不再需要使用page1或page2的頁面，並打算移除它們時，我們常常會忘記同時刪除對應的page2-banner.jpg。\n\n而現在我的資源規劃方式，會改成下面這種\n\n/assets/images/page1/ \n--- page1-banner.jpg \n\n/assets/images/page2/ \n--- page2-banner.jpg \n\n/page/page1/ \n--- helper.js \n--- index.js \n\n/page/page2/ \n--- helper.js \n--- index.js\n\n透過這種劃分方式當需要刪除某個模組或頁面的程式碼時，我能找到對應的資源檔案夾並一併刪除，而且不必擔心其它地方可能還會亂共用到這些資源。\n\n接下來，我們來看看元件的分類方式。\n在Don't create leftovers (DCL)這篇文章中，介紹了一種常見的分類方式。\n讓我們看看以下的範例\n\ncomponents/ \n  List/\n --- index.jsx (跟ListItem有相依性) \n  ListItem/ \n --- index.jsx \n  stories/ \n --- List.story.jsx\n \n當我們刪除List資料夾時，由於List.story也會掛掉，因此我們不會忘記一併刪除List.story.jsx。\n但ListItem卻經常是被忽略需要一起處理的垃圾。所以一樣，我們可以將有強烈依賴關係的元件放在同個Folder底下，請參考以下的做法。\n\ncomponents/ \n  List/ \n ——ListItem/ \n ———index.jsx \n --- index.jsx \n --- index.story.jsx\n\n正確的Folder規劃方式可以幫助我們減少程式碼的遺留情況，但要真正解決問題，還需要在開發時思考：「假如你今天要刪除這段程式碼，那麼哪裡可能會出現遺留的問題，並試著找出避免這種情況的方法。 」\n\n此外，透過工具的幫助也非常有效，例如，eslint就有提供unused variable的警告，可以幫助你找出程式碼中未被引用的變數，或是一些IDE也能查找哪些檔案是否已經沒被其他模組給引用了。\n\n以上規劃方式建議會比較合適大型專案，如果只是小型專案的話，其實不用搞得那麼複雜。\n\n#前端 #前端開發 #軟體開發 #軟體工程師 #網頁開發 #devlife #前端工程師 #javascript #typescript #生產力"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 3
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1685023274,
+                            "edge_liked_by": {
+                                "count": 497
+                            },
+                            "edge_media_preview_like": {
+                                "count": 497
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCohRQDmXzDimzd4bPh8H2ilBVA9kbcI80XNj6XKj9fMg&oe=64FDD84D&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfA5ATdWmTOdH8ihE1Rp-VBPvBe99F3icv36UC-AZej91g&oe=64FDD84D&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDW8DDPF85tMco8ekNx9eAdSEN_3F8cr7iKPzBMgPQUzA&oe=64FDD84D&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBp-StJ4utYut5WILr4F-B0TCDqoRP_qQW4INCaEqnlNQ&oe=64FDD84D&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBPZjVq9FEp1nszQCHMg-Eerq1yHY_Tuonp-wzZIA7wbg&oe=64FDD84D&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.2885-15/349046711_232977952803558_6052633683942773774_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IC4QvR1lPkIAX9NibIM&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfCohRQDmXzDimzd4bPh8H2ilBVA9kbcI80XNj6XKj9fMg&oe=64FDD84D&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3100371131008563418",
+                            "shortcode": "CsGux3_pDja",
+                            "dimensions": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfACMojanTos-Xsg1EbSs4wocXawrb1Tjp_01z0lWPuBbg&oe=64FDE2CF&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACIqd/aA6bT+f/1qDf8A+z+v/wBaszqaU9BzRYLsv/2iP7v6/wD1qtwy+agfGM5/Q1gHmta0OIwPc/zqZKxUXcu0U2is7l2OfXJIA71fCIEBKk4Az82O/wDWrZ0+Ptu/P/61RGwB/iP5D/CugxK4jTG7accfxep/z9OtSwl1UBVBzubr23cc8/rVae3MTogIO845HT8jUdwWtgoB555/Hp3pNJ6Ma02NPzW/uP8A+O//ABVFZP8AaEnqKKXJHzHzM2ftDjqRz64pwuW7gGkuYkDghQDz2FVKm7Lsia4X7RtdSAyZx3Gff/D86x5PMjOJBnPryD9P/rc1qwn5j9KkkUMpBAI96vzIsYPyH+H9f/rUVfJINFK4WP/Z",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on May 11, 2023.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "分享一些面試工程師以及看幾十封履歷的心得。\n\n▪️內容列了一大堆『接觸過的技術』\n很多工程師可能只是稍微碰過皮毛或是拿某樣技術做了簡單的小作品就把這項技術列到自己簡歷裡面，但面試被問的深入一點卻完全回答不出來。\n『簡歷列的技術要列自己專精，且面試被問到時能回答流暢，讓人家知道你是真的有料』\n\n▪️工作經歷只列用了什麼，而不列用來做什麼\n\n學習技術和工具的目的是為了解決問題。在工作經歷中，應該說明使用了哪些技術來解決哪些問題，而不僅僅是列出使用過的技術，這樣的描述會更具說服力。\n\n▪️放一大堆作業作品集\n這個也算是說到爛的一項了，真的別放出去上課的作業當作品集。我最近印象最深刻的是一位剛畢業的大學本科生，雖然沒有工作經驗，但自己做的side project都是自己仔細思考過並且去串接整合一些有趣的服務，像是line bot、discord bot等等。\n\n還有千萬別幫自己的技能打分數\n像是以下這種\nReact ⭐️⭐️⭐️\nVue ⭐️⭐️\n很蠢，千萬別做\n完全沒人知道你的自評標準是什麼\n\n我一巴掌下去怕了吧\n\n#工程師 #前端 #前端開發 #前端工程師\n#網頁開發"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 11
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1683813061,
+                            "edge_liked_by": {
+                                "count": 916
+                            },
+                            "edge_media_preview_like": {
+                                "count": 1006
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfABRAyJXqCqkFtnnFwFSqfNCJ30VtorWzwfsMTDbVNukg&oe=64FDE2CF&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfD15lGNJwIdz4EXQonIKPJOnBidBNchnXx-64_4IP86iQ&oe=64FDE2CF&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBNz6iPCzV_vP6eiajEEc5Tqipg5zC6ngPVHaDTIrCaSw&oe=64FDE2CF&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDp0HgzKZ6E3jSCV7QFRvPw2a5IEmwGqkju6shgUf1hZA&oe=64FDE2CF&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBqmWucYOoEXfytR67LgovdaIV2kmOYj8pysLtLQAoa_g&oe=64FDE2CF&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-15/346214136_894849131619236_4518782387580678409_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=q5QenUw8Z6wAX-G1Fvy&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfABRAyJXqCqkFtnnFwFSqfNCJ30VtorWzwfsMTDbVNukg&oe=64FDE2CF&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "3098927940426332295",
+                            "shortcode": "CsBmosBpPiH",
+                            "dimensions": {
+                                "height": 1217,
+                                "width": 1080
+                            },
+                            "display_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDTr5AeUjFUFLo6RczVlksiojEQGHJE6v9uiHCP0L51Jg&oe=64FCADA4&_nc_sid=29ddf3",
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            },
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "gating_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACUqstKi9WA/EVA13EOhz9Aax2JNKop2C5oNfJnABqfINYrDmteNJD8wRivqB6ceuaQ0BWih32n5gV+oIooAzY0V+Cdv4En8hV2OxZuhx9Rj9PzoW/EafIqoehx0/D/6+arG6ec43E/oKLhYcEhRyJHyVI4Ude+c8/SonkAJKyleuAAf8+1QhS2So+uBTlaRwSoDAe3P/wBei4WBLkn75LemfSiq5bfz0+lFIZaMYHAz35zjqMVPZW0fO/5mz0JwOeh9+eMe4qI9acOKVyrEt5ePF+5AAxg8cfoKqW8rwEvkc9QenNT6v/rgfVf61myHmjcW2ppC1jucvE3l/wB5T2PqPY/pRVFqKBXP/9k=",
+                            "owner": {
+                                "id": "18057916710",
+                                "username": "kayshih.dev"
+                            },
+                            "is_video": false,
+                            "has_upcoming_event": false,
+                            "accessibility_caption": "Photo by K  前端工程師 on May 09, 2023.",
+                            "edge_media_to_caption": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "text": "『你們這專案為什麼不用XXX技術啊？』\n『這個專案改用XXX寫或是導入XXX會比較好啊』\n『我覺得這個套件不好用，改用另外一個Library會更好』\n\n記得在我比較菜雞階段時，剛進到一間新公司接觸到公司的專案都會這樣去詢問其他同事，直到開發經驗以及維護專案的經驗更豐富後才發現，當時自己這些問題其實都蠻白癡而且無禮，只是單純想秀自己好像知道一些很潮的技術。\n\n每個專案都有其歷史共業，也許目前看到覺得這技術選擇跟寫法很蠢，但是在當時的時空背景下，它就是best practice。舉個簡單的例子像是React HOC 轉變為Hooks這段，相信很多前端工程師一定還有在維護一堆HOC的專案。\n\n在專案開發過程中，隨著時間的推移，某些技術和實踐一定會過時，但要將舊技術替換成新技術，需要大量的時間跟資源，尤其是在維護大型專案時。\n\n👉與其當個嘴砲仔，不如直接動手改改看？\n\n目前，我遇到舊專案中有真正值得改進的地方或是更值得替換的技術時，會直接嘗試去修改並了解可能受影響的部分以及可能遇到的困難。\n當有一定的進展時，再跟其他同事或主管分享這些成果，討論是否要投入更多資源進行技術迭代。\n\n你覺得還有什麼更好的做法？ 下面留言跟我說\n\n#前端 #前端開發 #軟體開發 #軟體工程師 #網頁開發 #devlife #前端工程師 #javascript #typescript #生產力"
+                                        }
+                                    }
+                                ]
+                            },
+                            "edge_media_to_comment": {
+                                "count": 3
+                            },
+                            "comments_disabled": false,
+                            "taken_at_timestamp": 1683641019,
+                            "edge_liked_by": {
+                                "count": 466
+                            },
+                            "edge_media_preview_like": {
+                                "count": 466
+                            },
+                            "location": null,
+                            "nft_asset_info": null,
+                            "thumbnail_src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=c0.84.1319.1319a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfChF-REw9uuyTv05EFLZK_ENc6J4LkeTaev5cUIfVnwwQ&oe=64FCADA4&_nc_sid=29ddf3",
+                            "thumbnail_resources": [
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=c0.84.1319.1319a_dst-jpg_e35_s150x150&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfAVvgHmHX23R-xWS7nhyM_PvE8iaYI5gAE0H93JiYOrZA&oe=64FCADA4&_nc_sid=29ddf3",
+                                    "config_width": 150,
+                                    "config_height": 150
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=c0.84.1319.1319a_dst-jpg_e35_s240x240&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBpgRGFEM7J-ClI4g7Th26jqLrWLEDNnHBPAn-dkB4dKg&oe=64FCADA4&_nc_sid=29ddf3",
+                                    "config_width": 240,
+                                    "config_height": 240
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=c0.84.1319.1319a_dst-jpg_e35_s320x320&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfBNYOcKWnf-EwjQ0DmsT24L_w0nhSX0wSlHI7M1WVLohg&oe=64FCADA4&_nc_sid=29ddf3",
+                                    "config_width": 320,
+                                    "config_height": 320
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=c0.84.1319.1319a_dst-jpg_e35_s480x480&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfDLqFmh7QKTSMVgSOEDMgerk-XxnNXH8ZFh2JX1pl-Upw&oe=64FCADA4&_nc_sid=29ddf3",
+                                    "config_width": 480,
+                                    "config_height": 480
+                                },
+                                {
+                                    "src": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.2885-15/346067874_1400211534157815_2075278191584726710_n.jpg?stp=c0.84.1319.1319a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=89XJXYx6Vo0AX-SXQBd&edm=AKEQFekBAAAA&ccb=7-5&oh=00_AfChF-REw9uuyTv05EFLZK_ENc6J4LkeTaev5cUIfVnwwQ&oe=64FCADA4&_nc_sid=29ddf3",
+                                    "config_width": 640,
+                                    "config_height": 640
+                                }
+                            ],
+                            "coauthor_producers": [],
+                            "pinned_for_users": [],
+                            "viewer_can_reshare": true
+                        }
+                    }
+                ]
+            },
+            "edge_saved_media": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_media_collections": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            }
+        }
+    },
+    "toast_content_on_load": null,
+    "show_qr_modal": false,
+    "show_view_shop": false
+}
