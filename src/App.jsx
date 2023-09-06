@@ -7,13 +7,9 @@ import data from "./asset/mockData.json";
 import Header from "./components/hearder/Header";
 
 function App() {
-    const { biography, bio_links } = data.graphql.user;
-
     return (
         <div>
-            <Header biography={biography} bioLinks={bio_links}>
-                GG
-            </Header>
+            <Header></Header>
         </div>
     );
 }
