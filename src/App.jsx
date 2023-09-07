@@ -9,10 +9,15 @@ import Content from "./components/content/Content";
 
 function App() {
     return (
-        <div>
-            <Header></Header>
-            <Content></Content>
-        </div>
+        <main className="flex max-h-screen overflow-hidden">
+            <aside className="bg-red-500 w-24 "></aside>
+            <div className="grow overflow-y-auto">
+                <div className="max-w-6xl m-auto px-3 py-10">
+                    <Header></Header>
+                    <Content></Content>
+                </div>
+            </div>
+        </main>
     );
 }
 
