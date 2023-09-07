@@ -7,7 +7,6 @@ const Button = ({
     children,
     handleClick,
 }) => {
-    console.log(isFollowByViewr);
     // isFollowByViewr 追蹤或追蹤中
     // isShowSuggested 顯示推薦用戶
 

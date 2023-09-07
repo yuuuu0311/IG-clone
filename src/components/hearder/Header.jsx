@@ -20,7 +20,7 @@ const Header = ({}) => {
     ];
 
     // biography
-    const { biography, bio_links } = data.graphql.user;
+    const { biography_with_entities, bio_links } = data.graphql.user;
 
     // mutualFollower
     const [mutualFollowerList, mutualFollowerCount] = [
@@ -100,7 +100,7 @@ const Header = ({}) => {
             <>
                 <b>{fullName}</b>
                 <p>{categoryName}</p>
-                <Biography>{biography}</Biography>
+                <Biography>{biography_with_entities}</Biography>
             </>
             <>
                 {bio_links.map((link, index) => {
