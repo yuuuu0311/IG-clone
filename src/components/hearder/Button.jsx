@@ -6,13 +6,17 @@ const Button = ({
     isShowSuggested,
     children,
     handleClick,
+    link,
 }) => {
     // isFollowByViewr 追蹤或追蹤中
     // isShowSuggested 顯示推薦用戶
 
     const btnClass = twMerge(
         classNames(
-            "bg-slate-200 text-slate-800 rounded-lg flex items-center p-2 font-bold",
+            "flex items-center font-bold text-neutral-800 text-sm",
+            {
+                "px-3 py-2 bg-neutral-200 rounded-lg": !link,
+            },
             {
                 "bg-blue-500 text-white": isFollowByViewr == false,
             }

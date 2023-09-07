@@ -12,6 +12,7 @@ const Biography = ({ children }) => {
                 /@([\w.]+)/g, // 正則表達式，要在閱讀資料
                 (match, i) => (
                     <a
+                        className="text-sky-700"
                         key={match + i}
                         href={`https://www.instagram.com/${match}`}
                     >

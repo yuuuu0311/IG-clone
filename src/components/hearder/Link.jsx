@@ -15,7 +15,7 @@ const Link = ({ title, linkType, url, children }) => {
             href={url}
             target={getTargetType(linkType)}
             title={title.length != 0 || children}
-            className="flex items-center font-bold"
+            className="flex items-center font-bold text-sky-700"
         >
             {title.length != 0 || (
                 <>
