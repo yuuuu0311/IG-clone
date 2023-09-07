@@ -13,12 +13,15 @@ import data from "../../asset/mockData.json";
 
 const Header = ({}) => {
     // Destructuring !!
+    const userPath = data.graphql.user;
     const {
         graphql: {
             user: {
                 username: userName,
                 full_name: fullName,
                 category_name: categoryName,
+                followed_by_viewer: followedByViewer,
+                show_suggested_profiles: showSuggestedProfiles,
                 edge_owner_to_timeline_media: { count: postCount }, // po文數
                 edge_followed_by: followerCount, // 追蹤者人數
                 edge_follow: follwingCount, // 追蹤中人數
@@ -35,36 +38,32 @@ const Header = ({}) => {
     } = {
         graphql: {
             user: {
-                username: data.graphql.user.username,
-                full_name: data.graphql.user.full_name,
-                category_name: data.graphql.user.category_name,
-
+                username: userPath.username,
+                full_name: userPath.full_name,
+                category_name: userPath.category_name,
+                followed_by_viewer: userPath.followed_by_viewer,
+                show_suggested_profiles: data.show_suggested_profiles,
                 edge_owner_to_timeline_media: {
-                    count: data.graphql.user.edge_owner_to_timeline_media.count,
+                    count: userPath.edge_owner_to_timeline_media.count,
                 },
-                edge_followed_by: data.graphql.user.edge_followed_by.count,
-                edge_follow: data.graphql.user.edge_follow.count,
-                bio_links: data.graphql.user.bio_links,
-                biography_with_entities:
-                    data.graphql.user.biography_with_entities,
+                edge_followed_by: userPath.edge_followed_by.count,
+                edge_follow: userPath.edge_follow.count,
+                bio_links: userPath.bio_links,
+                biography_with_entities: userPath.biography_with_entities,
                 edge_mutual_followed_by: {
-                    count: data.graphql.user.edge_mutual_followed_by.count,
-                    edges: data.graphql.user.edge_mutual_followed_by.edges,
+                    count: userPath.edge_mutual_followed_by.count,
+                    edges: userPath.edge_mutual_followed_by.edges,
                 },
             },
         },
     };
 
     // state
-    const [isFollowByViewr, setFollowByViewr] = useState(
-        data.graphql.user.followed_by_viewer
-    );
-    const [isShowSuggested, setShowSuggested] = useState(
-        data.show_suggested_profiles
-    );
+    const [isFollowByViewr, setFollowByViewr] = useState(followedByViewer);
+    const [isShowSuggested, setShowSuggested] = useState(showSuggestedProfiles);
 
     return (
-        <header className="flex gap-10">
+        <header className="flex gap-10 mb-10">
             <div className="flex items-center grow-1">
                 <div className="overflow-hidden rounded-full w-48 h-48 m-auto">
                     <img
