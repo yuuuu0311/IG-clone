@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+使用 IG 資料來練習處理較複雜的資料
+使用 [react-string-replace](https://www.npmjs.com/package/react-string-replace?activeTab=readme) 套件來處理帳號簡介中的 超連結字串
+
 
 ## Available Scripts
 
