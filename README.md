@@ -6,6 +6,7 @@
 
 
 ### `備註`
+- 練習使用 解構來取得資料，得到較好的程式碼可讀性
 
 - 使用 [react-string-replace](https://www.npmjs.com/package/react-string-replace?activeTab=readme) 套件來處理帳號簡介中的 超連結字串
 
